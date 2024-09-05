@@ -22,6 +22,6 @@ This project is just getting started and only has a couple of features implement
 
 ## Credits and references
 
-- !!!
+- [Command Line Interface Guidelines](https://clig.dev/)
 
 [🔝](#zipssion)
