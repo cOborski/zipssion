@@ -5,7 +5,7 @@
 </center>
 
 ## What is this?
-Zipssion is a command line program that aids in the design and reverse engineering of custom file types.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A909&background=00000098&multiline=true&width=435&height=150&lines=Zipssion+is+a+command+line+program;that+aids+in+the+design+and;reverse+engineering+of+custom;file+types.)](https://git.io/typing-svg)
 
 ## More about this repository
 
