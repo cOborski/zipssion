@@ -1,4 +1,4 @@
-"""Zipssion.
+"""Zipssion
 
 Usage:
   zipssion.py <file> [--quiet | --verbose] [--path=<path>] [--zip | --7zip | --tar.gz]
@@ -13,7 +13,7 @@ Options:
   --version      show version
   --quiet        print less text
   --verbose      print more text
-  --path <path>  path to folder containing file [default: '/']
+  --path=<path>  path to folder containing file [default: '/']
 
 """
 from docopt import docopt
@@ -34,7 +34,7 @@ def config_log():
     console_handler.setLevel(logging.DEBUG)
 
     # Create a formatter and attach it to the handler
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter('%(asctime)s \n %(name)s \n %(levelname)s \n %(message)s')
     console_handler.setFormatter(formatter)
 
     # Create a logger and add the console handler
