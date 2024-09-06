@@ -164,5 +164,5 @@ cython_debug/
 # Testing files
 
 test_files/
-.zip
-.zipssion
+*.zip
+*.zipssion
