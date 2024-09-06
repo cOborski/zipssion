@@ -30,4 +30,6 @@ This project is just getting started and only has a couple of features implement
 - [asciinema](https://asciinema.org/)
 - [pypager](https://github.com/prompt-toolkit/pypager)
 
+## Corrections to spelling and grammer
+
 [🔝](#zipssion)
