@@ -1,6 +1,7 @@
 <center>
 
 # Zipssion
+## Version: 0.1.0-alpha
 
 </center>
 
@@ -23,5 +24,10 @@ This project is just getting started and only has a couple of features implement
 ## Credits and references
 
 - [Command Line Interface Guidelines](https://clig.dev/)
+- [docopt](https://github.com/docopt/docopt)
+- [pyfiglet](https://github.com/pwaller/pyfiglet)
+- [rich](https://rich.readthedocs.io/en/latest/index.html)
+- [asciinema](https://asciinema.org/)
+- [pypager](https://github.com/prompt-toolkit/pypager)
 
 [🔝](#zipssion)
