@@ -1,7 +1,7 @@
 <center>
 
 # Zipssion
-## Version: 0.1.0-alpha
+Version: 0.1.0-alpha
 
 </center>
 
@@ -29,7 +29,6 @@ This project is just getting started and only has a couple of features implement
 - [rich](https://rich.readthedocs.io/en/latest/index.html)
 - [asciinema](https://asciinema.org/)
 - [pypager](https://github.com/prompt-toolkit/pypager)
-
-## Corrections to spelling and grammer
+- [piou](https://github.com/andarius/piou)
 
 [🔝](#zipssion)
