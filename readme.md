@@ -1,7 +1,7 @@
 <center>
 
 # Zipssion
-![Static Badge](https://img.shields.io/badge/0.1.0-alpha?style=plastic&logoSize=auto&label=version&labelColor=black&color=blue&link=https%3A%2F%2Fsemver.org%2F) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
+![version: 0.1.0-alpha](https://img.shields.io/badge/0.1.0-alpha?style=plastic&logoSize=auto&label=version&labelColor=black&color=blue&link=https%3A%2F%2Fsemver.org%2F)-alpha [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![Project Type: toy](https://img.shields.io/badge/project%20type-toy-blue)(https://project-types.github.io/#toy)
 </center>
 
 ## What is this?
