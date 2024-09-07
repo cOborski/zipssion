@@ -26,7 +26,7 @@ This project is just getting started and only has a couple of features implement
 - [Command Line Interface Guidelines](https://clig.dev/)
 - [docopt](https://github.com/docopt/docopt)
 - [pyfiglet](https://github.com/pwaller/pyfiglet)
-- [rich](https://rich.readthedocs.io/en/latest/index.html)
+- [rich-cli](https://github.com/Textualize/rich-cli)
 - [asciinema](https://asciinema.org/)
 - [pypager](https://github.com/prompt-toolkit/pypager)
 - [piou](https://github.com/andarius/piou)
