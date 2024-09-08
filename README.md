@@ -56,6 +56,9 @@ Options:
 - [Python Black](https://github.com/psf/black)
 - [isort](https://github.com/PyCQA/isort)
 
+### Fun things/Other
+- [Readme Typing](https://readme-typing-svg.demolab.com/demo/)
+
 ### Things I'm saving for latter possible use
 - [pyfiglet](https://github.com/pwaller/pyfiglet)
 - [asciinema](https://asciinema.org/)
