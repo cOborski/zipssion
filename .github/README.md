@@ -9,25 +9,34 @@
 
 ## More about this repository
 
-This project is just getting started and only has a couple of features implemented
+This project is just getting started and only has a couple of features implemented! I intend to use semantic versioning for zipssion, but for now consider it to be version 0.1.0-alpha (a prerelease state.)
 
 ## Known issues / TODOs
 
-- [ ] Write TODOs
+- [ ] List out commands
+- [ ] Generate documentation
+- [ ] Write getting started guide
+- [ ] Currently, zipssion is using [python-magic](https://github.com/ahupp/python-magic) (libmagic) for file identification but I want to add a flag that allows the user to use [Magika](https://github.com/google/magika) instead. (or maybe in addition to?)
+- [ ] Continue writing TODOs...
 
 ## View source
 
 [![cOborski/zipssion](https://img.shields.io/static/v1?label=cOborski&message=zipssion&color=yellow&logo=github)](https://github.com/coborski/zipssion/)
 
 
-## Credits and references
+## Credits, inspiration, and references
 
+### Articles, guides, and resources
 - [Command Line Interface Guidelines](https://clig.dev/)
-- [docopt](https://github.com/docopt/docopt)
-- [pyfiglet](https://github.com/pwaller/pyfiglet)
+
+### Libraries used by zipssion
+- [Typer](https://typer.tiangolo.com/)
 - [rich-cli](https://github.com/Textualize/rich-cli)
+- [python-magic](https://github.com/ahupp/python-magic)
+
+### Things I'm saving for latter possible use
+- [pyfiglet](https://github.com/pwaller/pyfiglet)
 - [asciinema](https://asciinema.org/)
-- [pypager](https://github.com/prompt-toolkit/pypager)
-- [piou](https://github.com/andarius/piou)
+- [Magika](https://github.com/google/magika)
 
 [🔝](#zipssion)
