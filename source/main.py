@@ -1,6 +1,6 @@
-from typer import Typer
-from log import create_rich_logger
 import identify_file_type
+from log import create_rich_logger
+from typer import Typer
 
 app = Typer()
 VERSION = "0.1.0-alpha"

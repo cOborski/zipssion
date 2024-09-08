@@ -1,7 +1,7 @@
 # to delete
 
-from typer import Typer
 import identify_file_type
+from typer import Typer
 
 app = Typer()
 VERSION = "0.1.0-alpha"

@@ -17,6 +17,7 @@ This project is just getting started and only has a couple of features implement
 - [ ] Generate documentation
 - [ ] Write getting started guide
 - [ ] Currently, zipssion is using [python-magic](https://github.com/ahupp/python-magic) (libmagic) for file identification but I want to add a flag that allows the user to use [Magika](https://github.com/google/magika) instead. (or maybe in addition to?)
+- [ ] Write tests
 - [ ] Continue writing TODOs...
 
 ## View source

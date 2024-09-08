@@ -1,5 +1,6 @@
-import rich_cli
 import logging
+
+import rich_cli
 from rich.logging import RichHandler
 
 

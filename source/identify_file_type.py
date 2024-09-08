@@ -1,12 +1,13 @@
-from typer import Typer, Argument
-from rich import print, console
-from pprint import pprint
 import argparse
 import pathlib
 import shutil
 import tempfile
 import zipfile
+from pprint import pprint
+
 import magic
+from rich import console, print
+from typer import Argument, Typer
 
 app = Typer()
 
