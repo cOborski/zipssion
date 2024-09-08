@@ -24,7 +24,6 @@ This project is just getting started and only has a couple of features implement
 
 [![cOborski/zipssion](https://img.shields.io/static/v1?label=cOborski&message=zipssion&color=yellow&logo=github)](https://github.com/coborski/zipssion/)
 
-
 ## Credits, inspiration, and references
 
 ### Articles, guides, and resources
@@ -34,6 +33,10 @@ This project is just getting started and only has a couple of features implement
 - [Typer](https://typer.tiangolo.com/)
 - [rich-cli](https://github.com/Textualize/rich-cli)
 - [python-magic](https://github.com/ahupp/python-magic)
+
+### Tools
+- [Python Black](https://github.com/psf/black)
+- [isort](https://github.com/PyCQA/isort)
 
 ### Things I'm saving for latter possible use
 - [pyfiglet](https://github.com/pwaller/pyfiglet)
