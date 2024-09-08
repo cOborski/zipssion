@@ -24,7 +24,7 @@ This project is just getting started and only has a couple of features implement
 
 [![cOborski/zipssion](https://img.shields.io/static/v1?label=cOborski&message=zipssion&color=yellow&logo=github)](https://github.com/coborski/zipssion/)
 
-## Planned Usage
+## Planned Usage (incomplete/wip)
 ```
 Usage:
 main.py <file> [--quiet | --verbose] [--path=<path>] [--extention=<file extention>]
