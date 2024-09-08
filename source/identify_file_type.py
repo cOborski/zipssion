@@ -1,6 +1,5 @@
 from typer import Typer, Argument
 from rich import print, console
-from log import create_rich_logger
 from pprint import pprint
 import argparse
 import pathlib
@@ -10,7 +9,6 @@ import zipfile
 import magic
 
 app = Typer()
-logger = create_rich_logger()
 
 
 @app.command()
@@ -32,9 +30,9 @@ def identify(files: list[str] = Argument(..., help="File paths to identify")):
                     for member in tar.getmembers():
                         print(f"  - {member.name}")
             else:
-                print(f"{file_path}: {file_type}")
+                print(
+                    f"[bold green]Identified file type: {file_type}[/bold green]"
+                )
 
         except FileNotFoundError:
             log.error(f"Error: File not found: {file_path}")
-
-    print(f"[bold green]Identified file type: {file_type}[/bold green]")

@@ -1,0 +1,4 @@
+# identify_file_type_tests
+import pytest
+import unittest
+import identify_file_type_tests
