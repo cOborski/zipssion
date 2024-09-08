@@ -14,7 +14,7 @@ def create_rich_logger():
     for the rich.logging class definision
 
     Args:
-        variable (type): description
+        none
 
     Returns:
         logger: a logger that can be formatted using rich

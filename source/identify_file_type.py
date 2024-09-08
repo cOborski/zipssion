@@ -14,7 +14,22 @@ app = Typer()
 
 @app.command()
 def identify(files: list[str] = Argument(..., help="File paths to identify")):
-    """Identifies the file type of provided files with incorrect extensions."""
+    """
+    Identifies the file type of provided files with incorrect extensions
+
+    A bit longer description.
+
+    Args:
+        files (list[str]): A list of file paths to identify
+
+    Returns:
+        type: description
+
+    Raises:
+        FileNotFoundError: the file does not exist
+
+    """
+
     for file_path in files:
         try:
             with open(file_path, "rb") as f:
@@ -37,3 +52,5 @@ def identify(files: list[str] = Argument(..., help="File paths to identify")):
 
         except FileNotFoundError:
             log.error(f"Error: File not found: {file_path}")
+
+    # todo: return

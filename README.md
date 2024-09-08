@@ -24,6 +24,22 @@ This project is just getting started and only has a couple of features implement
 
 [![cOborski/zipssion](https://img.shields.io/static/v1?label=cOborski&message=zipssion&color=yellow&logo=github)](https://github.com/coborski/zipssion/)
 
+## Planned Usage
+`Usage:
+main.py <file> [--quiet | --verbose] [--path=<path>] [--extention=<file extention>]
+main.py (-h | --help)
+main.py --version
+main.py --quiet
+main.py --verbose
+
+Options:
+-h --help      show help text
+--version      show version
+--quiet        print less text
+--verbose      print more text
+--path=<path>  list of file paths [default: {'/'}]
+--extention=<file extention>  the file's extention (if known)`
+
 ## Credits, inspiration, and references
 
 ### Articles, guides, and resources
