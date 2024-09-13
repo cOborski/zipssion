@@ -2,6 +2,7 @@
 
 # Zipssion
 ![version: 0.1.0-alpha](https://img.shields.io/badge/0.1.0-alpha?style=plastic&logoSize=auto&label=version&labelColor=black&color=blue&link=https%3A%2F%2Fsemver.org%2F) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![Project Type: toy](https://img.shields.io/badge/project%20type-toy-blue)](https://project-types.github.io/#toy) [![ide: pulsar](https://87dx2k69x4yr.runkit.sh)](https://pulsar-edit.dev/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcOborski%2Fzipssion.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FcOborski%2Fzipssion?ref=badge_shield)
 </center>
 
 ## What is this?
@@ -65,3 +66,7 @@ Options:
 - [Magika](https://github.com/google/magika)
 
 [🔝](#zipssion)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcOborski%2Fzipssion.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FcOborski%2Fzipssion?ref=badge_large)
